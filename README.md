@@ -26,25 +26,20 @@ npm run serve
 ```
 ### Documentación de las rutas
 ```
-http://localhost:8080/        : Formulario de búsqueda
+http://localhost:8080/        : List category
 ```
-![image](https://user-images.githubusercontent.com/8096392/178122830-e8454078-6f18-4ef8-9a5e-d1828c0fc30e.png)
-
-```
-http://localhost:8080/listado : visualiza el listado de tickets
-```
-![image](https://user-images.githubusercontent.com/8096392/178122851-bbc02646-76de-454d-aa12-20d2ece51d6b.png)
+![category](https://user-images.githubusercontent.com/8096392/189039461-e7e69e8b-5f49-4a21-8ef9-c48df0981a44.png)
 
 
 ```
-Fragmento de la configuración Vuex
+http://localhost:8080 : list 
 ```
-![image](https://user-images.githubusercontent.com/8096392/178122948-0b6fb7f1-60e6-4bf1-9da8-38c9a3cca592.png)
 
+![list-categorys-books](https://user-images.githubusercontent.com/8096392/189039524-6381378c-eb56-4208-94e2-090775f69d01.png)
 
 ```
-Fragmento de la configuración rutas
+http://localhost:8080 : Details
 ```
-![image](https://user-images.githubusercontent.com/8096392/178123018-77e1b8e3-1015-438f-9512-4a2725c5fd14.png)
+![detail-book](https://user-images.githubusercontent.com/8096392/189039771-a3816e4e-d6de-4049-a4b6-7737b2cf4e8d.png)
 
 
